@@ -1,2 +1,2 @@
 #!/bin/bash
-ls id -u -a -l
+ls -u -a -l
